@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>My Personal Website</title>
+
+          <meta charset="UTF-8">
+          <meta name="author" conent="Zehc Sebastian, Pabillo">V
+          <meta name="keywords" content="Lab Exercise 3">
+          <meta name="date-submitted" content=“02-10-2024">
+      </head>
+      <body>
+   
+<h1> Sigma Subjects </h1>
+<table style =“border: 1px solid black”>
+         <tr>
+             <th rowspan=“2” style=“border: 1px solid black;”>Subject</th>
+          <th colspan=“2” style=“border: 1px solid black;”> Thoughts</th>
+         </tr>
+         <tr>
+         <th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: green;”> Biology</th>
+
+<th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: green;”>I like this subject because it talks about life.</th>
+
+<th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: green;”>This is color green since it matches the color of nature Biology</th>
+        </tr>
+        <tr>
+         <th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color:blue ;”>Statistics</th>
+
+<th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: blue;”>I like this subject because it talks about being organize.</th>
+
+<th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: blue;”>This is color is Blue since blue is my favorite color and it matches Biology</th>
+       </tr>
+       <tr>
+         <th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: teal;”>Health</th>
+
+<th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: teal;”>I like this subject because it talks how the teenage body works.</th>
+
+<th style ="border: 1px solid black: Border-width: 1px: border-color: black: background-color: teal;”>This is color is teal since teal is what i thought for its color Health</th>
+      </tr>
+      </table>
+      </body>
+</html>
